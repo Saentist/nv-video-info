@@ -14,4 +14,5 @@ git clone https://github.com/Saentist/nv-video-info
 cd nv-video-info
 ./autogen.sh
 make 
-make install```
+make install
+```
